@@ -1,9 +1,11 @@
 /models/
 /UCSDped1/
 /__pycache__/
+/UCSD_Anomaly_Dataset.v1p2/
 *.tif
 *.tiff
 *.png
 *.jpg
 *.bmp
+*.zip
 
