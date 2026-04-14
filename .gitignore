@@ -1,4 +1,9 @@
 /models/
 /UCSDped1/
 /__pycache__/
+*.tif
+*.tiff
+*.png
+*.jpg
+*.bmp
 
